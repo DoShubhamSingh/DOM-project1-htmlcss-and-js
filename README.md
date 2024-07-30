@@ -6,7 +6,7 @@ This project demonstrates a consistent user interface across all steps.
 
 To view the hosted version of this project, click on the following link:
 
-
+[https://doshubhamsingh.github.io/DOM-project1-htmlcss-and-js/]
 
 ## Instructions
 
